@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574898749 source:c:\users\rafam\desktop\trabalho\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
